@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Vikas1502kokare/Food_Ordering_Website",
+  "homepage": "https://Vikas1502kokare.github.io/Food_Ordering_Website/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
