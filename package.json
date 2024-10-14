@@ -6,7 +6,7 @@
   "homepage": "https://github.com/Vikas1502kokare/Food_Ordering_Website",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "vikas-backup -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
